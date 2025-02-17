@@ -1,4 +1,7 @@
-
+# git commit massage:
+# git add .
+# git commit -m "Your commit message"
+# git push origin main
 
                 # Mediterranean Sea 
                  # data exploration
