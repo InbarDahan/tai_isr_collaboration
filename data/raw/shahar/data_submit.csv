@@ -1,0 +1,1799 @@
+group,subgroup,species,min_depth,max_depth,location,longitude,latitude,survey_min,survey_max,season,ref_id
+mollusca,gastropoda,Aporrhais pespelecani,109,109,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Aporrhais serresianus,512,512,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Bolinus brandaris,125,125,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Calliostoma granulatum,76,133,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Crepidula unguiformis,84,131,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Eutheria cornea,361,361,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Fusinus rostratus,79,79,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Fusiturris similis,109,109,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Galeodea echinophora,91,542,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Semicassis granulata,125,125,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,gastropoda,Turritella communis,109,109,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Acanthocardia echinata,109,109,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Aequipecten opercularis,77,77,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Anadara gibbosa,125,125,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Anomia ephippium,78,521,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Arca tetragona,84,84,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Irus irus,113,113,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Monia squama,84,109,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Musculus subpictus,77,77,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Palliolum incomparabile,77,77,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Pseudamussium clavatum,113,113,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Venus casina,109,127,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Venus nux,91,125,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,bivalvia,Venus verrucosa,110,110,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Eledone cirrhosa,221,541,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Eledone moschata,76,137,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Macrotritopus defilippi,127,475,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Octopus salutii,274,542,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Octopus vulgaris,73,171,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Pteroctopus tetracirrhus,304,620,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Scaeurgus unicirrhus,76,599,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Alloteuthis media,78,613,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Alloteuthis subulata,75,431,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Illex coindetii,75,542,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Rossia macrosoma,521,521,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Sepia elegans,73,304,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Sepia orbignyana,73,455,malta,14.8,35.9,0,687,spr/sum,3
+mollusca,cephalopoda,Todaropsis eblanae,75,680,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Aristaeomorpha foliacea,425,687,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Aristeus antennatus,604,687,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Chlorotocus crassicornis,367,604,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Macropipus tuberculatus,91,680,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Parapenaeus longirostris,91,687,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Penaeus kerathurus,109,131,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Solenocera membranacea,449,455,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Alpheus glaber,109,109,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Bathynectes maravigna,542,680,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Calappa granulata,78,128,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Calcinus tubularis,440,440,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Dardanus calidus,79,79,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Galathea intermedia,77,84,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Geryon longipes,547,687,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Goneplax rhomboides,79,455,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Homola barbata,91,133,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Inachus thoracicus,73,455,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Latreillia elegans,113,143,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Liocarcinus corrugatus,674,674,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Liocarnicus depurator,449,449,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Macropodia longipes,134,361,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Medorippe lanata,113,113,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Munida intermedia,361,449,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Nephrops norvegicus,221,680,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Pagurus alatus,75,542,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Pagurus carneus,75,521,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Paromola cuvieri,594,594,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Pisa armata,73,81,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Polycheles typhlops,374,687,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,malacostraca,Spinolambrus macrochelos,343,361,malta,14.8,35.9,0,687,spr/sum,3
+crustacea,isopoda,Cymodoce truncata,75,446,malta,14.8,35.9,0,687,spr/sum,3
+chordata,tunicata,Ascidia mentula,76,147,malta,14.8,35.9,0,687,spr/sum,3
+chordata,tunicata,Ascidiella aspersa,133,133,malta,14.8,35.9,0,687,spr/sum,3
+chordata,tunicata,Ascidiella scabra,76,134,malta,14.8,35.9,0,687,spr/sum,3
+chordata,tunicata,Diazona violacea,113,113,malta,14.8,35.9,0,687,spr/sum,3
+chordata,tunicata,Polycarpa pomaria,125,125,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lepadogaster lepadogaster,442,442,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Muraena helena,81,81,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Synchiropus phaeton,440,440,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Synodus saurus,84,411,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Trigloporus lastoviza,75,113,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Anthias anthias,125,144,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Apogon imberbis,91,91,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Argentina sphyraena,91,455,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Arnoglossus imperialis,102,102,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Arnoglossus laterna,78,137,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Arnoglossus rueppelii,76,431,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Arnoglossus thori,73,81,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Bathypterois dubius,612,674,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Benthocometes robustus,455,455,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Blennius ocellaris,78,132,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Boops boops,76,190,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Callanthias ruber,144,144,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Capros aper,91,639,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Cepola macrophthalma,102,181,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Chelidonichthys cuculus,73,181,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Chelidonichthys lucerna,130,130,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Chlorophthalmus agassizi,130,639,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Citharus linguatula,76,361,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Conger conger,125,678,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Coris julis,81,81,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Dactylopterus volitans,73,73,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Deltentosteus quadrimaculatus,102,104,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Echelus myrus,91,599,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Epigonus denticulatus,449,547,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Eutrigla gurnardus,109,190,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Gaidropsarus mediterraneus,542,612,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Glossanodon leioglossus,102,475,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Gnathophis mystax,144,599,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Helicolenus dactylopterus,91,687,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lepidorhombus boscii,143,678,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lepidorhombus whiffiagonis,171,620,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lepidotrigla cavillone,76,190,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lepidotrigla dieuzeidei,76,272,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lesueurigobius suerii,91,113,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lophius budegassa,81,621,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Lophius piscatorius,79,620,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Macroramphosus scolopax,91,617,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Merluccius merluccius,78,680,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Microchirus variegatus,73,73,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Molva dypterygia,242,678,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Mullus barbatus,76,599,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Mullus surmuletus,73,639,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Nettastoma melanurum,521,678,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Peristedion cataphractum,125,620,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Sardinella aurita,76,79,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Scorpaena elongata,76,446,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Scorpaena notata,79,79,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Scorpaena porcus,75,81,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Scorpaena scrofa,128,455,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Serranus cabrilla,73,144,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Serranus hepatus,73,171,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Sphoeroides pachygaster,76,113,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Symphurus nigrescens,91,617,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Trachinus draco,73,78,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Trigla lyra,113,455,malta,14.8,35.9,0,687,spr/sum,3
+chordata,osteichthyes,Uranoscopus scaber,76,125,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Centrophorus granulosus,440,621,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Dalatias licha,615,628,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Dasyatis centroura,131,131,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Dasyatis pastinaca,73,131,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Dipturus oxyrinchus,173,639,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Etmopterus spinax,411,687,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Galeus melastomus,304,687,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Heptranchias perlo,411,680,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Leucoraja circularis,221,687,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Leucoraja fullonica,272,272,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Leucoraja melitensis,171,568,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Mustelus asterias,109,274,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Mustelus mustelus,102,568,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Mustelus punctulatus,110,137,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Oxynotus centrina,125,628,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Raja clavata,84,615,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Raja miraletus,84,304,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Raja montagui,272,542,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Raja radula,78,78,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Scyliorhinus canicula,73,568,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Squalus blainville,104,568,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Squalus uyato,521,521,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Torpedo marmorata,79,304,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Chimera monstrosa,431,687,malta,14.8,35.9,0,687,spr/sum,3
+chordata,chondrichthyes,Squalus blainville,77,659,E ionian,20.9,38.4,28,735,spr/sum,4
+chordata,chondrichthyes,Raja clavata,36,659,E ionian,20.9,38.4,28,735,spr/sum,4
+chordata,osteichthyes,Pagellus bogaraveo,42,655,E ionian,20.9,38.4,28,735,spr/sum,4
+chordata,osteichthyes,Helicolenus dactylopterus,98,692,E ionian,20.9,38.4,28,735,spr/sum,4
+chordata,osteichthyes,Merluccius merluccius,30,735,E ionian,20.9,38.4,28,735,spr/sum,4
+chordata,osteichthyes,Lepidorhombus boscii,100,659,E ionian,20.9,38.4,28,735,spr/sum,4
+chordata,osteichthyes,Spicara smaris,28,337,E ionian,20.9,38.4,28,735,spr/sum,4
+crustacea,malacostraca,Nephrops norvegicus,66,647,E ionian,20.9,38.4,28,735,spr/sum,4
+crustacea,malacostraca,Plesionika heterocarpus,97,655,E ionian,20.9,38.4,28,735,spr/sum,4
+crustacea,malacostraca,Liocarnicus depurator,36,586,E ionian,20.9,38.4,28,735,spr/sum,4
+crustacea,malacostraca,Acanthephyra eximia,424,807,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Acanthephyra pelagica,360,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Aegaeon cataphractus,34,798,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Aegaeon lacazei,27,786,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Alpheus glaber,34,754,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Alpheus macrocheles,44,379,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Alpheus platydactylus,122,793,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Anamathia rissoana,301,301,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Anapagurus bicorniger,34,119,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Anapagurus laevis,58,786,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Aristaeomorpha foliacea,457,683,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Aristeus antennatus,257,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ascidonia flavomaculata,84,106,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Atelecyclus rotundatus,25,140,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Bathynectes maravigna,81,807,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Calappa granulata,25,723,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Calcinus tubularis,27,75,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Calocarides coronatus,558,780,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Calocaris macandreae,57,798,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Caridion steveni,97,97,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Chlorotocus crassicornis,80,682,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Dardanus arrosor,25,807,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Dardanus calidus,25,58,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Derilambrus angulifrons,25,36,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Dicranodromia mahieuxii,619,619,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Dorhynchus thomsoni,351,799,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Dromia personata,25,109,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ebalia cranchi,61,186,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ebalia nux,520,661,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ebalia tuberosa,71,93,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ergasticus clouei,252,776,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ethusa mascarone,25,732,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Euchirograpsus liguricus,621,621,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Eurynome aspera,53,125,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Eusergestes arcticus,168,796,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Funchalia woodwardi,589,725,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Galathea dispersa,43,379,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Galathea intermedia,34,230,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Galathea nexa,46,77,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Gennadas elegans,328,786,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Geryon longipes,62,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Goneplax rhomboides,30,786,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Homarus gammarus,38,117,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Homola barbata,44,621,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Hymenopenaeus debilis,758,793,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Inachus aguiarii,56,78,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Inachus communissimus,25,428,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Inachus dorsettensis,27,616,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Inachus leptochirus,58,731,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Inachus parvirostris,57,94,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Inachus thoracicus,40,399,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Latreillia elegans,52,60,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Ligur ensiferus,398,795,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Liocarcinus arcuatus,25,780,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Liocarcinus corrugatus,44,80,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Liocarcinus depurator,25,754,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Liocarcinus maculatus,34,377,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Lissa chiragra,27,256,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Lophogaster typicus,96,731,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Macropipus tuberculatus,55,761,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Macropodia linaresi,43,147,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Macropodia longipes,38,741,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Macropodia rostrata,27,190,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Maja crispata,25,58,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Maja squinado,77,77,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Medorippe lanata,27,648,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Meganyctiphanes norvegica,76,776,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Monodaeus couchii,45,799,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Munida intermedia,117,761,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Munida rutllanti,40,586,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Munida tenuimana,113,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Natatolana borealis,50,761,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Nephrops norvegicus,44,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Nepinnotheres pinnotheres,46,146,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Paguristes eremita,25,171,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus alatus,31,807,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus anachoretus,604,604,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus bernhardus,351,659,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus cuanensis,27,382,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus excavatus,27,694,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus forbesi,39,87,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pagurus prideaux,25,793,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Palinurus elephas,33,249,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Palinurus mauritanicus,97,598,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pandalina brevirostris,422,442,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pandalina profunda,241,687,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Parapenaeus longirostris,58,741,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Paromola cuvieri,140,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Parthenopoides massena,27,119,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pasiphaea multidentata,283,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pasiphaea sivado,88,799,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Penaeopsis serrata,363,363,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Penaeus kerathurus,80,80,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Periclimenes granulatus,284,444,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Philocheras echinulatus,115,672,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Phronima sedentaria,92,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Phrosina semilunata,74,707,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pilumnus hirtellus,598,598,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pilumnus spinifer,25,269,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pilumnus villosissimus,57,186,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pinnotheres pisum,84,84,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pisa armata,27,138,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pisa corallina,60,87,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pisa nodipes,45,45,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pisidia longicornis,25,91,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika acanthonotus,113,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika antigai,98,565,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika edwardsii,167,665,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika gigliolii,219,735,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika heterocarpus,47,719,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika martia,113,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Plesionika narval,66,644,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Polybius henslowi,46,807,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Polycheles typhlops,55,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pontophilus norvegicus,589,798,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Pontophilus spinosus,71,786,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Processa canaliculata,59,793,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Processa nouveli,53,736,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Richardina fredericii,447,582,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Rissoides desmaresti,48,357,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Rissoides pallidus,27,710,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Rochinia carpenteri,134,799,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Scyllarides latus,46,705,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Scyllarus arctus,27,444,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Scyllarus pygmaeus,55,96,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Sergestes henseni,126,723,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Sergia robusta,113,823,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Solenocera membranacea,44,786,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Spinolambrus macrochelos,47,452,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Squilla mantis,28,551,spain,1,39,25,800,spr/sum,1
+crustacea,malacostraca,Typton spongicola,48,96,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Alepocephalus rostratus,396,807,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Alosa fallax,33,90,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Anguilla anguilla,43,558,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Anthias anthias,47,243,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Aphia minuta,27,275,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Apterichtus caecus,149,149,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Argentina sphyraena,75,688,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Argyropelecus aculeatus,58,672,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Argyropelecus hemigymnus,58,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Arnoglossus imperialis,41,179,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Arnoglossus laterna,25,338,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Arnoglossus rueppelii,77,629,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Arnoglossus thori,25,615,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Aulopus filamentosus,106,424,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Bathophilus nigerrimus,462,720,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Bathypterois mediterraneus,660,660,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Bathysolea profundicola,48,799,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Bellottia apoda,340,637,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Benthocometes robustus,408,786,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Benthosema glaciale,76,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Blennius ocellaris,25,351,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Boops boops,26,525,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Borostomias antarcticus,460,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Bothus podas,30,274,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Buglossidium luteum,27,27,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Callanthias ruber,76,320,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Callionymus lyra,41,134,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Callionymus maculatus,30,540,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Callionymus pusillus,46,46,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Callionymus risso,34,124,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Capros aper,38,691,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Caranx rhonchus,28,327,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Carapus acus,44,557,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Cataetyx alleni,387,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Centracanthus cirrus,51,172,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Centrolophus niger,89,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Cepola macrophthalma,27,390,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Ceratoscopelus maderensis,140,796,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chauliodus sloani,126,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chelidonichthys cuculus,55,444,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chelidonichthys lucerna,27,133,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chelidonichthys obscurus,25,140,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chelon labrosus,37,43,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chlopsis bicolor,82,318,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Chlorophthalmus agassizi,113,740,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Citharus linguatula,27,536,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Coelorinchus caelorhincus,90,807,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Coelorinchus labiatus,509,807,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Conger conger,27,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Coris julis,27,77,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Crystallogobius linearis,39,666,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Cyclothone braueri,418,699,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Cyclothone pygmaea,402,660,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dactylopterus volitans,27,172,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Deltentosteus collonianus,60,81,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Deltentosteus quadrimaculatus,25,297,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dentex dentex,27,118,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dentex maroccanus,30,161,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diaphus holti,171,757,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dicentrarchus labrax,27,58,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dicologlossa cuneata,45,513,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dicologlossa hexophthalma,125,125,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diplecogaster bimaculata,27,136,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diplodus annularis,26,337,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diplodus cervinus,47,67,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diplodus puntazzo,33,72,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diplodus sargus,27,58,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Diplodus vulgaris,27,147,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Dysomma brevirostre,416,694,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Echelus myrus,38,337,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Echiodon dentatus,226,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Electrona risso,312,687,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Engraulis encrasicolus,27,275,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Epigonus constanciae,328,504,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Epigonus denticulatus,47,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Epigonus telescopus,236,807,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Eretmophorus kleinenbergi,583,680,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Eutrigla gurnardus,27,529,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Evermannella balbo,424,793,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gadella maraldi,342,699,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gadiculus argenteus,53,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gaidropsarus biscayensis,47,793,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Glossanodon leioglossus,75,691,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gnathophis mystax,58,720,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gobius fallax,48,108,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gobius geniporus,26,168,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gobius niger,34,143,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gonichthys cocco,638,638,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gonostoma denudatum,485,485,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Gymnammodytes cicerelus,76,77,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Helicolenus dactylopterus,48,786,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Hippocampus hippocampus,63,63,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Hoplostethus mediterraneus,133,807,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Hygophum benoiti,226,795,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Hygophum hygomii,187,793,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Hymenocephalus italicus,271,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Ichthyococcus ovatus,257,720,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lampanyctus crocodilus,76,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lappanella fasciata,139,146,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lepidion lepidion,435,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lepidopus caudatus,46,754,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lepidorhombus boscii,41,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lepidorhombus whiffiagonis,77,523,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lepidotrigla cavillone,36,342,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lepidotrigla dieuzeidei,58,355,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lestidiops sphyrenoides,299,299,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lesueurigobius friesii,34,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lesueurigobius sanzi,33,337,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lesueurigobius suerii,37,342,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lithognathus mormyrus,39,43,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Liza aurata,34,46,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Liza ramada,34,46,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lobianchia dofleini,249,796,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lobianchia gemellarii,626,626,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lophius budegassa,34,759,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Lophius piscatorius,27,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Macroramphosus scolopax,41,689,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Maurolicus muelleri,75,754,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Melanostigma atlanticum,61,731,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Merluccius merluccius,28,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Microchirus boscanion,42,263,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Microchirus ocellatus,44,63,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Microchirus theophila,58,58,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Microchirus variegatus,36,648,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Micromesistius poutassou,56,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Mola mola,27,350,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Molva dypterygia,77,754,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Molva macrophthalma,181,501,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Molva molva,159,521,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Monochirus hispidus,43,147,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Mora moro,179,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Mugil cephalus,34,36,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Mullus barbatus,27,329,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Mullus surmuletus,26,544,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Muraena helena,55,78,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Myctophum punctatum,77,796,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Nansenia oblita,337,727,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Nemichthys scolopaceus,76,799,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Nettastoma melanurum,130,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Nezumia aequalis,235,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Nezumia sclerorhynchus,377,377,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Notacanthus bonaparte,295,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Notolepis risso,49,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Notoscopelus bolini,173,659,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Notoscopelus elongatus,105,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Notoscopelus kroeyeri,585,585,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Ophichthus rufus,36,773,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Ophidion barbatum,38,529,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Ophidion rochei,41,236,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Ophisurus serpens,39,723,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pagellus acarne,27,754,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pagellus bogaraveo,38,807,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pagellus erythrinus,25,151,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pagrus pagrus,27,636,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Parablennius tentacularis,52,53,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Paralepis coregonoides,261,790,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Paraliparis leptochirus,113,761,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Paraliparis murieli,707,707,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pegusa impar,52,72,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pegusa lascaris,121,121,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Peristedion cataphractum,47,571,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Phrynorhombus regius,53,65,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Phycis blennoides,79,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Phycis phycis,47,527,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Polyacanthonotus rissoanus,266,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Polyprion americanus,283,342,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pomatomus saltatrix,33,60,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pomatoschistus marmoratus,42,150,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pomatoschistus microps,41,269,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pomatoschistus minutus,64,64,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Psenes pellucidus,62,450,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Pseudaphya ferreri,51,98,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Rhynchogadus hepaticus,86,735,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sardina pilchardus,26,390,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sardinella aurita,27,214,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Schedophilus medusophagus,754,754,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Schedophilus ovalis,780,780,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sciaena umbra,45,45,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scomber colias,38,368,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scomber japonicus,58,63,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scomber scombrus,27,344,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scophthalmus maximus,56,113,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scophthalmus rhombus,40,87,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scorpaena elongata,30,444,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scorpaena loppei,47,172,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scorpaena notata,26,418,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scorpaena porcus,27,263,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Scorpaena scrofa,27,159,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Seriola dumerili,43,80,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Serranus cabrilla,27,250,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Serranus hepatus,25,382,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Solea senegalensis,30,85,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Solea solea,38,197,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sparus aurata,30,80,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sphoeroides pachygaster,123,180,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sphyraena sphyraena,37,87,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Spicara flexuosa,25,448,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Spicara maena,27,153,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Spicara smaris,26,384,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Spondyliosoma cantharus,36,157,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Sprattus sprattus,46,90,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Stomias boa,77,796,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Stromateus fiatola,37,38,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Symbolophorus veranyi,168,776,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Symphodus cinereus,56,60,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Symphurus ligulatus,78,798,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Symphurus nigrescens,27,799,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Synapturichthys kleinii,51,76,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Synchiropus phaeton,47,793,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Syngnathus acus,27,312,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Syngnathus phlegon,91,561,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Synodus saurus,27,65,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachinus araneus,43,43,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachinus draco,27,638,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachinus radiatus,41,110,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachipterus trachypterus,96,125,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachurus mediterraneus,25,699,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachurus picturatus,36,796,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachurus trachurus,25,749,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachyrincus scabrus,96,823,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trachyscorpia cristulata,693,786,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trigla lyra,72,773,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trigloporus lastoviza,26,257,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trisopterus luscus,69,133,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Trisopterus minutus,37,334,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Umbrina canariensis,43,80,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Umbrina cirrosa,41,89,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Umbrina ronchus,34,112,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Uranoscopus scaber,30,152,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Vinciguerria attenuata,232,722,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Vinciguerria poweriae,228,701,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Xiphias gladius,114,114,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Zeus faber,26,409,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Aplidium conicum,41,95,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Aplidium elegans,51,93,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Aplidium haouarianum,60,60,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Aplidium nordmanni,51,82,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Ascidia mentula,41,723,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Ascidia virginea,57,138,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Ascidiella aspersa,41,140,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Ascidiella scabra,43,217,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Botryllus schlosseri,41,117,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Ciona intestinalis,51,723,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Cystodytes dellachiajei,51,53,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Dendrodoa grossularia,51,51,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Diazona violacea,51,409,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Halocynthia papillosa,41,357,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Microcosmus sabatieri,46,146,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Microcosmus vulgaris,38,520,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Molgula appendiculata,38,557,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Phallusia mammillata,38,382,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Polycarpa mamillaris,41,358,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Polycarpa pomaria,46,225,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Polycitor adriaticus,51,98,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Polyclenella azemai,51,92,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Pseudodistoma cyrnusense,60,81,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Pyura dura,58,76,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Pyura microcosmus,51,718,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Styela plicata,62,62,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Synoicum blochmanni,57,358,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Centrophorus granulosus,705,749,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Centrophorus uyato,322,796,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Dalatias licha,408,799,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Dasyatis centroura,58,58,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Dasyatis pastinaca,39,78,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Dipturus oxyrinchus,144,699,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Etmopterus spinax,124,823,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Galeorhinus galeus,263,593,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Galeus atlanticus,330,807,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Galeus melastomus,77,823,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Heptranchias perlo,428,556,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Hexanchus griseus,534,761,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Leucoraja circularis,252,718,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Leucoraja melitensis,142,146,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Leucoraja naevus,41,799,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Mustelus asterias,107,107,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Mustelus mustelus,36,141,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Myliobatis aquila,41,144,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Oxynotus centrina,77,710,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Pteroplatytrygon violacea,64,64,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja africana,47,47,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja asterias,26,313,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja brachyura,57,63,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja clavata,27,691,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja miraletus,41,291,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja montagui,41,402,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja polystigma,40,749,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Raja radula,45,216,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Rostroraja alba,58,174,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Scyliorhinus canicula,38,761,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Squalus acanthias,77,278,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Squalus blainville,107,358,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Torpedo marmorata,27,550,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Tetronarce nobiliana,36,722,spain,1,39,25,800,spr/sum,1
+chordata,chondrichthyes,Chimaera monstrosa,195,807,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Pyrosoma atlanticum,52,807,spain,1,39,25,800,spr/sum,1
+chordata,tunicata,Salpa maxima,57,754,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Abra alba,186,741,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Abra longicallus,754,754,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Acanthocardia aculeata,44,123,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Acanthocardia echinata,34,123,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Acanthocardia paucicostata,38,38,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Acanthocardia spinosa,76,76,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Acanthocardia tuberculata,92,92,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Aequipecten opercularis,34,456,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Amygdalum politum,636,807,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Anadara diluvii,47,694,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Anadara inaequivalvis,44,133,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Anomia ephippium,46,146,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Arca noae,134,134,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Arca tetragona,136,136,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Atrina fragilis,45,232,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Barbatia barbata,77,77,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Chamelea gallina,44,44,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Crassostrea gigas,25,146,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Cuspidaria cuspidata,284,687,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Flexopecten flexuosus,34,43,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Glossus humanus,43,232,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Glycymeris glycymeris,77,77,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Hiatella arctica,77,77,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Laevicardium crassum,46,93,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Laevicardium oblongum,26,78,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Lima lima,59,59,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Mimachlamys varia,27,422,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Mytilus edulis,47,47,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Mytilus galloprovincialis,47,651,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Neopycnodonte cochlear,44,344,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Nucula sulcata,81,687,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Ostrea edulis,27,612,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Palliolum incomparabile,60,81,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Pecten jacobaeus,27,77,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Pecten maximus,33,235,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Pinna nobilis,47,126,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Pteria hirundo,37,780,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Spisula solida,525,608,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Spisula subtruncata,75,471,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Tapes decussata,140,140,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Thracia phaseolina,68,82,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Venus casina,34,643,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Venus nux,38,263,spain,1,39,25,800,spr/sum,1
+mollusca,bivalvia,Venus verrucosa,57,76,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Abralia veranyi,42,799,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Alloteuthis media,25,688,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Alloteuthis subulata,27,451,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Ancistroteuthis lichtensteinii,81,793,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Bathypolypus sponsalis,47,807,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Brachioteuthis riisei,348,773,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Eledone cirrhosa,30,695,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Eledone moschata,26,395,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Heteroteuthis dispar,138,799,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Histioteuthis bonnellii,138,761,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Histioteuthis reversa,317,754,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Illex coindetii,38,723,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Loligo forbesii,45,740,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Loligo vulgaris,27,398,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Neorossia caroli,47,807,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Octopus defilippi,44,462,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Octopus macropus,44,136,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Octopus salutii,77,599,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Octopus vulgaris,25,312,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Ocythoe tuberculata,116,116,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Onychoteuthis banksii,82,744,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Opisthoteuthis agassizii,687,780,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Pteroctopus tetracirrhus,80,737,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Rondeletiola minor,44,720,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Rossia macrosoma,68,786,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Scaeurgus unicirrhus,44,707,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepia elegans,27,427,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepia officinalis,25,143,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepia orbignyana,48,608,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepietta neglecta,41,90,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepietta obscura,27,157,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepietta oweniana,27,761,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepiola affinis,37,81,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepiola intermedia,37,90,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepiola ligulata,83,176,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Sepiola robusta,47,81,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Stoloteuthis leucoptera,309,786,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Todarodes sagittatus,56,823,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Todaropsis eblanae,42,760,spain,1,39,25,800,spr/sum,1
+mollusca,cephalopoda,Vampyroteuthis infernalis,71,71,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Aplysia fasciata,51,51,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Aplysia punctata,51,90,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Aporrhais pespelecani,37,694,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Aporrhais serresianus,34,799,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Armina maculata,62,128,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Armina tigrina,43,128,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Astraea rugosa,40,78,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Berthella aurantiaca,57,82,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Bolinus brandaris,25,732,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Buccinulum corneum,26,771,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Buccinum humphreysianum,88,799,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Calliostoma granulatum,34,635,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Calliostoma zizyphinum,62,362,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Callumbonella suturalis,57,586,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Calyptraea chinensis,48,80,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Cancellaria cancellata,27,509,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Capulus ungaricus,77,77,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Cassidaria echinopora,49,776,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Cassidaria tyrrhena,53,807,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Charonia lampas,52,518,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Colus gracilis,95,799,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Colus jeffreysianus,518,799,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Coralliophila squamosa,114,114,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Cymatium corrugatum,34,115,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Cymbium olla,38,82,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Cymbulia peronii,71,823,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Diodora italica,41,73,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Discodoris atromaculata,47,71,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Doris pseudoargus,58,92,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Doris verrucosa,108,799,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Euspira catena,417,514,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Euspira fusca,44,807,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Fusinus rostratus,43,694,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Fusiturris similis,235,799,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Fusiturris undatiruga,126,619,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Gastropteron rubrum,60,174,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Hadriania carticuloides,60,80,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Hexaplex trunculus,25,188,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Hypselodoris picta,58,58,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Lamellaria perspicua,48,48,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Lunatia grossularia,78,428,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Marionia blainvillea,54,54,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Nassarius incrassatus,34,34,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Nassarius reticulatus,80,80,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Naticarius punctatus,48,48,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Ocenebra erinaceus,38,140,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Phalium saburon,64,771,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Philine aperta,62,131,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Platydoris argo,42,107,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Pleurobranchaea meckeli,26,274,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Pseudosimnia carnea,112,112,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Ranella olearium,26,758,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Scaphander lignarius,36,750,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Semicassis granulata,529,529,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Semicassis undulata,62,62,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Strombus gigas,528,528,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Tethys fimbria,38,240,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Turritella communis,37,117,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Umbraculum umbraculum,44,758,spain,1,39,25,800,spr/sum,1
+mollusca,gastropoda,Xenophora crispa,36,674,spain,1,39,25,800,spr/sum,1
+chordata,osteichthyes,Alosa fallax,82,126,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Anthias anthias,104,104,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Aphia minuta,80,80,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Arctozenus risso,405,516,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Argentina sphyraena,107,433,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Argyropelecus hemigymnus,355,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Argyrosomus regius,407,407,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Ariosoma balearicum,112,391,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Arnoglossus kessleri,10,126,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Arnoglossus laterna,19,389,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Arnoglossus rueppelii,116,389,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Arnoglossus thori,25,34,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Aspitrigla cuculus,40,346,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Aulopus filamentosus,159,196,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Bathophilus nigerrimus,553,593,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Bathypterois mediterraneus,555,555,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Benthocometes robustus,401,650,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Blennius ocellaris,26,139,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Boops boops,10,296,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Bothus podas,10,29,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Callanthias ruber,120,463,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Callionymus maculatus,32,588,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Callionymus risso,180,180,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Capros aper,40,596,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Carapus acus,80,80,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Centracanthus cirrus,350,350,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Centrolophus niger,374,650,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Cepola macrophthalma,19,180,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Ceratoscopelus maderensis,255,606,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Chauliodus sloani,272,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Chelidonichthys lucerna,19,177,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Chelidonichthys obscurus,34,123,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Chimera monstrosa,548,597,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Chlorophthalmus agassizi,108,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Citharus linguatula,68,393,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Coelorinchus caelorhincus,255,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Conger conger,25,562,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Dalatias licha,533,614,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Dalophis imberbis,55,115,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Deltentosteus quadrimaculatus,29,391,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Dentex dentex,45,45,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Diaphus metopoclampus,328,606,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Diaphus rafinesquii,369,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Dicentrarchus labrax,19,72,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Diplodus annularis,10,177,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Diplodus sargus,43,47,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Diplodus vulgaris,66,79,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Dipturus oxyrinchus,346,350,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Echelus myrus,33,121,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Echiodon dentatus,408,408,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Electrona risso,393,561,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Engraulis encrasicolus,31,138,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Epigonus constanciae,332,523,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Epigonus denticulatus,255,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Epigonus telescopus,329,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Epinephelus aeneus,47,82,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Etmopterus spinax,389,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gadella maraldi,329,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gadiculus argenteus,165,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gaidropsarus biscayensis,62,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gaidropsarus mediterraneus,116,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Galeus melastomus,295,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Glossanodon leioglossus,112,360,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gnathophis mystax,107,433,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gobius geniporus,26,383,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gobius niger,26,379,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Gonostoma denudatum,310,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Helicolenus dactylopterus,106,614,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Hippocampus hippocampus,35,35,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Hoplostethus mediterraneus,329,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Hygophum benoiti,555,555,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Hygophum hygomii,377,561,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Hymenocephalus italicus,296,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Ichthyococcus ovatus,693,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Labrus mixtus,10,10,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lampanyctus crocodilus,332,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lampanyctus pusillus,407,573,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lepidopus caudatus,47,614,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lepidorhombus boscii,114,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lepidorhombus whiffiagonis,114,433,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lepidotrigla cavillone,26,350,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lepidotrigla dieuzeidei,50,283,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lesueurigobius friesii,62,385,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lesueurigobius suerii,33,360,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lithognathus mormyrus,10,93,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lobianchia dofleini,348,561,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lobianchia gemellarii,410,564,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lophius budegassa,40,614,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Lophius piscatorius,62,604,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Macroramphosus scolopax,31,355,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Maurolicus muelleri,182,544,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Merluccius merluccius,26,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Micromesistius poutassou,121,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Molva dypterygia,114,621,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Mora moro,296,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Mugil cephalus,62,62,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Mullus barbatus,10,249,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Mullus surmuletus,10,180,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Muraena helena,81,104,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Myctophum punctatum,337,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Mylobatis aquila,25,25,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Nansenia oblita,113,395,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Nemichthys scolopaceus,170,170,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Nettastoma melanurum,255,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Nezumia aequalis,516,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Nezumia sclerorhynchus,305,650,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Notacanthus bonaparte,355,626,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Notoscopelus elongatus,336,581,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Ophichthus rufus,16,123,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Ophidion barbatum,74,74,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Ophisurus serpens,408,408,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Pagellus acarne,19,391,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Pagellus bogaraveo,72,570,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Pagellus erythrinus,10,283,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Pagrus pagrus,10,79,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Paralepis speciosa,516,541,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Peristedion cataphractum,120,610,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Phycis blennoides,77,693,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Phycis phycis,115,532,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Raja clavata,239,457,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Raja miraletus,31,316,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Raja polystigma,72,295,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Sardina pilchardus,26,187,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Sardinella aurita,26,116,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Schedophilus ovalis,585,585,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scomber scombrus,111,111,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scorpaena elongata,76,249,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scorpaena loppei,45,80,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scorpaena maderensis,43,43,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scorpaena notata,47,82,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scorpaena porcus,10,80,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Scorpaena scrofa,62,283,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Scyliorhinus canicula,239,585,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Scyliorhinus stellaris,104,409,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Seriola dumerili,10,62,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Serranus cabrilla,25,120,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Serranus hepatus,25,296,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Solea solea,81,81,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Sparus aurata,32,32,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Sphyraena sphyraena,34,45,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Spicara maena,10,187,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Spicara smaris,26,172,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Squalus acanthias,532,532,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Stomias boa,383,650,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Stromateus fiatola,150,150,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Symbolophorus veranyi,385,581,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Symphurus ligulatus,34,621,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Symphurus nigrescens,38,614,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Synchiropus phaeton,108,555,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Synodus saurus,10,62,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Torpedo marmorata,26,408,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Torpedo torpedo,82,348,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trachinus draco,10,120,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trachurus mediterraneus,19,249,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trachurus picturatus,40,380,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trachurus trachurus,25,393,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trigla lyra,10,433,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trigloporus lastoviza,25,139,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Trisopterus minutus,62,165,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Uranoscopus scaber,19,118,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Xyrichthys novacula,10,108,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,osteichthyes,Zeus faber,10,360,S tyrrhenian,13.9,38.7,10,693,spr/sum,5
+chordata,chondrichthyes,Galeus melastomus,101,745,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Scyliorhinus canicula,44,400,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Dalatias licha,698,698,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Squalus blainville,139,649,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Raja asterias,44,389,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Raja brachyura,70,70,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Raja clavata,85,400,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Raja miraletus,53,167,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Raja naevus,101,189,balearic islands,3.4,40,44,745,spring,10
+chordata,chondrichthyes,Raja oxyrhinchus,371,400,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Chlorophthalmus agassizi,189,649,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Conger conger,139,737,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Echelus myrus,96,96,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Merluccius merluccius,44,737,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Micromesistius poutassou,163,745,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Molva macrophthalma,334,538,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Phycis blennoides,139,745,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Phycis phycis,74,74,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Trisopterus minutus,91,189,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Mora moro,388,745,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Zeus faber,53,189,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Epinephelus marginatus,53,53,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Serranus cabrilla,44,163,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Cepola rubescens,69,153,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Mullus barbatus,44,189,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Mullus surmuletus,44,538,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Diplodus annularis,44,44,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Diplodus puntazzo,44,44,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Diplodus vulgaris,44,74,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Dentex dentex,74,74,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Pagellus acarne,44,101,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Pagellus bogaraveo,96,96,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Pagellus erythrinus,44,101,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Pagrus pagrus,44,44,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Spicara smaris,53,139,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Coris julis,70,70,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Trachinus draco,44,167,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Trachinus radiatus,44,44,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Uranoscopus scaber,44,153,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Blennius ocellaris,44,139,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Centrolophus niger,353,538,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Helicolenus dactylopterus,153,538,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Scorpaena elongata,189,189,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Scorpaena notata,44,139,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Scorpaena porcus,53,160,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Scorpaena scrofa,44,139,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Chelidonichthys cuculus,76,189,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Lepidotrigla cavillone,44,167,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Trigla lucerna,74,74,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Trigla lyra,139,389,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Trigloporus lastoviza,44,101,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Peristedion cataphractum,69,706,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Dactylopterus volitans,44,53,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Citharus linguatula,74,153,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Lepidorhombus boscii,97,436,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Lepidorhombus whiffiagonis,189,371,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Bathysolea profundicola,436,436,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Microchirus ocellatus,58,58,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Microchirus variegatus,69,94,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Monochirus hispidus,44,53,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Solea kleinii,53,53,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Lophius budegassa,94,400,balearic islands,3.4,40,44,745,spring,10
+chordata,osteichthyes,Lophius piscatorius,53,745,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Solenocera membranacea,353,538,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Aristeus antennatus,649,745,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Aristaeomorpha foliacea,737,737,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Parapenaeus longirostris,334,538,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Plesionika acanthonotus,472,702,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Plesionika antigai,334,436,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Plesionika edwardsii,388,436,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Plesionika gigliolii,334,737,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Plesionika heterocarpus,153,745,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Plesionika martia,436,745,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Nephrops norvegicus,371,694,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Palinurus elephas,96,133,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Calappa granulata,53,53,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Paromola cuvieri,538,706,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Liocarnicus depurator,91,353,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Macropipus tuberculatus,70,698,balearic islands,3.4,40,44,745,spring,10
+crustacea,malacostraca,Geryon longipes,649,745,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Sepia elegans,58,334,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Sepia officinalis,44,69,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Sepia orbignyana,139,189,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Alloteuthis media,69,189,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Loligo vulgaris,44,108,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Illex coindetii,69,353,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Todarodes sagittatus,139,668,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Octopus vulgaris,44,163,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Scaeurgus unicirrhus,74,167,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Eledone cirrhosa,53,400,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Eledone moschata,44,101,balearic islands,3.4,40,44,745,spring,10
+mollusca,cephalopoda,Brachioteuthis riisei,756,758,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Chiroteuthis veranyi,404,758,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Ctenopteryx sicula,404,409,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Abralia veranyi,88,720,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Pyroteuthis margaritifera,756,758,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Histioteuthis reversa,561,694,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Alloteuthis media,30,585,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Loligo forbesii,35,549,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Loligo vulgaris,16,335,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Octopoteuthis sicula,707,778,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Illex coindetii,37,766,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Todarodes sagittatus,770,770,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Todaropsis eblanae,110,766,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Ancistroteuthis lichtensteinii,257,770,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Argonauta argo,131,139,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Bathypolypus sponsalis,211,494,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Eledone cirrhosa,44,548,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Eledone moschata,16,223,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Octopus salutii,135,520,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Octopus vulgaris,16,270,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Pteroctopus tetracirrhus,88,706,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Scaeurgus unicirrhus,97,549,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepia elegans,31,585,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepia officinalis,16,179,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepia orbignyana,30,585,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Heteroteuthis dispar,332,735,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Neorossia caroli,207,567,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Rondeletiola minor,55,766,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Rossia macrosoma,167,567,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepietta neglecta,88,163,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepietta obscura,31,31,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepietta oweniana,47,715,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepiola intermedia,60,293,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepiola ligulata,84,216,S aegean,25.5,37,16,770,spr/sum,11
+mollusca,cephalopoda,Sepiola rondeletii,75,104,S aegean,25.5,37,16,770,spr/sum,11
+chordata,chondrichthyes,Scyliorhinus canicula,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Squalus acanthias,40,73,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Oxynotus centrina,38,73,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Torpedo marmorata,42,73,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Raja clavata,38,73,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Raja miraletus,70,71,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Dasyatis pastinaca,63,74,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Mylobatis aquila,40,45,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Engraulis encrasicolus,60,61,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Sardina pilchardus,42,45,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Sprattus sprattus,39,68,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Merluccius merluccius,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Gaidropsarus biscayensis,42,68,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Merlangius merlangus,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Lophius budegassa,65,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Zeus faber,40,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Scorpaena porcus,38,45,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Chelidonichthys cuculus,40,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Eutrigla gurnardus,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Lepidotrigla cavillone,40,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Chelidonichthys lucerna,38,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Trigla lyra,42,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Trigloporus lastoviza,42,42,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Pomatomus saltatrix,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Serranus hepatus,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Diplodus annularis,38,63,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Trachurus trachurus,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Spicara maena,38,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Mullus barbatus,38,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Mullus surmuletus,40,71,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Cepola macrophthalma,40,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Uranoscopus scaber,38,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Blennius ocellaris,40,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Callionymus lyra,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Callionymus maculatus,70,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Callionymus pusillus,42,42,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Gobius niger,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Leuseurigobius friesii,39,73,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Citharus linguatula,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Arnoglossus laterna,38,74,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Arnoglossus thori,42,45,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Buglossidium luteum,40,44,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Microchirus hispidus,39,41,marmara,27.75,40.55,38,74,all,8
+chordata,osteichthyes,Solea solea,38,44,marmara,27.75,40.55,38,74,all,8
+chordata,chondrichthyes,Chimera monstrosa,320,392,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Galeus melastomus,210,401,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Scyliorhinus canicula,63,383,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Mustelus asterias,170,183,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Etmopterus spinax,320,401,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Squalus acanthias,65,330,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Squalus blainville,63,95,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Oxynotus centrina,75,80,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Squatina squatina,320,330,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Torpedo marmorata,75,183,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Dipturus oxyrhinchus,65,401,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Raja asterias,75,80,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Raja clavata,63,356,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Raja miraletus,65,383,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Raja radula,75,80,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Dasyatis pastinaca,65,75,N aegean,26,40.5,63,401,all,8
+chordata,chondrichthyes,Mylobatis aquila,75,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Conger conger,75,324,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Engraulis encrasicolus,72,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Argentina sphyraena,88,395,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Chlorophthalmus agassizi,210,383,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Coelorinchus caelorhincus,183,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Hymenocephalus italicus,210,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Nezumia sclerorhynchus,320,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Merluccius merluccius,63,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Gaidropsarus biscayensis,320,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Phycis blennoides,100,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Gadiculus argenteus,170,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Merlangius merlangus,65,383,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Micromesistius poutassou,170,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Molva dypterygia,170,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Trisopterus minutus,63,220,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Ophidion barbatum,90,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Lophius budegassa,63,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Lophius piscatorius,332,356,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Hoplostethus mediterraneus,325,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Zeus faber,63,237,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Helicolenus dactylopterus,90,392,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Scorpaena notata,75,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Chelidonichthys cuculus,75,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Eutrigla gurnardus,63,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Lepidotrigla cavillone,65,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Chelidonichthys lucerna,63,324,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Trigla lyra,63,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Trigloporus lastoviza,63,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Peristedion cataphractum,325,392,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Serranus cabrilla,70,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Serranus hepatus,63,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Serranus scriba,80,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Boops boops,63,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Dentex dentex,77,79,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Dentex macrophthalmus,77,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Dentex maroccanus,76,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Pagellus acarne,65,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Pagellus bogaraveo,75,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Pagellus erythrinus,72,183,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Pagrus pagrus,75,98,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Trachurus trachurus,63,324,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Centracanthus cirrus,80,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Spicara maena,65,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Spicara smaris,63,73,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Mullus barbatus,63,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Mullus surmuletus,75,80,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Cepola macrophthalma,70,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Trachinus draco,63,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Echiichthys vipera,63,79,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Uranoscopus scaber,65,82,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Blennius ocellaris,63,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Callionymus lyra,65,70,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Callionymus pusillus,75,230,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Deltentosteus quadrimaculatus,65,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Gobius niger,80,95,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Leuseurigobius friesii,210,330,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Lepidopus caudatus,320,324,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Scomber scombrus,100,100,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Capros aper,100,383,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Citharus linguatula,63,230,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Lepidorhombus boscii,65,401,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Arnoglossus laterna,63,220,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Arnoglossus thori,72,82,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Microchirus variegatus,63,80,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Solea solea,63,80,N aegean,26,40.5,63,401,all,8
+chordata,osteichthyes,Symphurus nigrescens,65,330,N aegean,26,40.5,63,401,all,8
+mollusca,cephalopoda,Abralia veranyi,320,320,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Aegaeon lacazei,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Alepes djedaba,17,49,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,bivalvia,Anadara transversa,200,200,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Ancistroteuthis lichtensteinii,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Apogon imberbis,30,30,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Apogonichthyoides pharaonis,25,37,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Argentina sphyraena,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Argyropelecus hemigymnus,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Ariosoma balearicum,17,60,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Aristaeomorpha foliacea,320,570,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Aristeus antennatus,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Arnoglossus kessleri,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Arnoglossus rueppelii,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Atherina boyeri,17,43,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Atherinomorus lacunosus,36,45,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Balistes capriscus,37,51,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Blennius ocellaris,84,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Boops boops,16,146,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Bothus podas,16,73,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Bregmaceros atlanticus,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Bregmaceros atlanticus,36,65,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Callionymus filamentosus,17,84,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Capros aper,200,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Caranx crysos,35,77,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Caranx rhonchus,37,37,levant,34.5,31.9,16,145,spr/sum,13
+chordata,chondrichthyes,Centrophorus granulosus,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Ceratotha steindachneri,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Champsodon nudivittis,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Chauliodus sloani,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Chelidonichthys lucerna,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,chondrichthyes,Chimera monstrosa,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Chlorophthalmus agassizi,200,570,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Chlorotocus crassicornis,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Citharus linguatula,27,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Coelorinchus caelorhincus,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Conger conger,27,320,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Coryphaenoides guentheri,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Cynoglossus sinusarabici,31,60,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Dactylopterus volitans,36,49,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Dardanus arrosor,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Decapterus russelli,24,60,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Dentex dentex,62,62,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Dentex maroccanus,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Dentex macrophthalmus,38,320,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Dentex maroccanus,53,102,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Diaphus holti,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Diaphus rafinesquii,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Dicentrarchus labrax,77,77,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Diplodus annularis,20,46,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Diplodus puntazzo,28,28,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Diplodus vulgaris,24,46,levant,34.5,31.9,16,145,spr/sum,13
+chordata,chondrichthyes,Dipturus oxyrhinchus,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Dussumieria elopsoides,28,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Dysomma brevirostre,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Echelus myrus,37,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Electrona risso,320,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Engraulis encrasicolus,17,146,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Epigonus constanciae,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Epigonus denticulatus,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Epinephelus aeneus,39,54,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Equulites klunzingeri,17,146,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Etrumeus golanii,37,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Facciolella oxyrhyncha,200,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Fistularia commersonii,36,45,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,gastropoda,Galeodea echinophora,200,440,levant,34.5,31.9,200,570,aut,12
+chordata,chondrichthyes,Galeus melastomus,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Gnathophis mystax,30,68,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Gobius niger,35,84,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Goneplax rhomboides,440,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Helicolenus dactylopterus,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Hemiramphus far,30,30,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,cephalopoda,Heteroteuthis dispar,320,320,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Histioteuthis bonnellii,440,440,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Homola barbata,440,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Hoplostethus mediterraneus,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Hygophum benoiti,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Hymenocephalus italicus,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Hyporthodus haifensis,39,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Lagocephalus sceleratus,38,58,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Lagocephalus spadiceus,17,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Lagocephalus suezensis,17,58,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Lampanyctus crocodilus,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lepidopus caudatus,440,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lepidorhombus boscii,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lepidorhombus whiffiagonis,320,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lepidotrigla cavillone,17,320,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Lesueurigobius friesii,200,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lesueurigobius suerii,200,440,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Liocarnicus depurator,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lithognathus mormyrus,16,77,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,cephalopoda,Loligo forbesii,440,440,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Loligo vulgaris,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Lophius budegassa,149,570,levant,34.5,31.9,16,570,all,1213
+crustacea,malacostraca,Macropipus tuberculatus,320,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Macroramphosus scolopax,62,320,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Maurolicus muelleri,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Merluccius merluccius,59,570,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Microchirus ocellatus,58,69,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Monochirus hispidus,36,36,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Mullus barbatus,16,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Mullus surmuletus,20,149,levant,34.5,31.9,16,145,spr/sum,13
+chordata,chondrichthyes,Mustelus mustelus,93,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Nemichthys scolopaceus,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Nemipterus randalli,24,93,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,cephalopoda,Neorossia caroli,440,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Nettastoma melanurum,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Notoscopelus bolini,570,570,levant,34.5,31.9,200,570,aut,12
+mollusca,bivalvia,Nucula sulcata,320,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Oblada melanura,16,77,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,cephalopoda,Octopus salutii,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Ophidion barbatum,16,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Ostorhinchus fasciatus,35,60,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Oxyurichthys papuensis,37,51,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Pagellus acarne,16,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Pagellus bogaraveo,56,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Pagellus erythrinus,17,102,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Pagrus caeruleostictus,16,73,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Pagrus pagrus,17,93,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Pagurus alatus,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Panturichthys fowleri,200,200,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Parapenaeus longirostris,200,570,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Pasiphaea multidentata,440,570,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Pasiphaea sivado,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Pegusa impar,53,53,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Pelates quadrilineatus,39,39,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Peristedion cataphractum,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Phycis blennoides,79,570,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Phycis phycis,62,69,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Plesionika edwardsii,320,570,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Plesionika heterocarpus,320,570,levant,34.5,31.9,200,570,aut,12
+crustacea,malacostraca,Plesionika martia,440,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Plotosus lineatus,25,51,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Polycheles typhlops,570,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Pomadasys incisus,20,36,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Pomadasys stridens,35,43,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,cephalopoda,Pyroteuthis margaritifera,440,440,levant,34.5,31.9,200,570,aut,12
+chordata,chondrichthyes,Raja clavata,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,chondrichthyes,Raja miraletus,35,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,chondrichthyes,Raja montagui,320,320,levant,34.5,31.9,200,570,aut,12
+chordata,chondrichthyes,Rhinobatos rhinobatos,20,51,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Rhynchoconger trewavasae,320,320,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Rondeletiola minor,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Sardina pilchardus,39,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sardinella aurita,16,86,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sardinella maderensis,35,59,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sargocentron rubrum,30,42,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sciaena umbra,42,42,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Scomber japonicus,24,146,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Scomberomorus commerson,17,77,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Scorpaena elongata,200,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Scorpaena notata,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Scorpaena porcus,51,51,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Scorpaena scrofa,79,79,levant,34.5,31.9,16,145,spr/sum,13
+mollusca,cephalopoda,Sepia officinalis,200,200,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Sepia orbignyana,200,200,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Sepietta oweniana,320,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Seriola dumerili,24,51,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Serranus cabrilla,36,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Serranus hepatus,36,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Siganus rivulatus,16,36,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sillago suezensis,16,77,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Solea solea,29,51,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Solenocera membranacea,200,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Sparus aurata,16,43,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sphyraena chrysotaenia,25,64,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Sphyraena sphyraena,27,77,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Spicara maena,35,102,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Spicara smaris,20,146,levant,34.5,31.9,16,145,spr/sum,13
+chordata,chondrichthyes,Squalus acanthias,200,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Stephanolepis diaspros,17,65,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Stomias boa,320,570,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Sudis hyalina,440,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Symphurus nigrescens,91,320,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Synchiropus phaeton,320,440,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Synodus saurus,35,93,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Tetronarce nobiliana,440,440,levant,34.5,31.9,200,570,aut,12
+mollusca,cephalopoda,Todaropsis eblanae,200,570,levant,34.5,31.9,200,570,aut,12
+mollusca,gastropoda,Tonna galea,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,chondrichthyes,Torpedo marmorata,200,320,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Torpedo torpedo,31,102,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Torquigener flavimaculosus,35,39,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Trachinus araneus,17,17,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Trachinus draco,20,41,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Trachurus indicus,17,49,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Trachurus mediterraneus,27,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Trachurus picturatus,51,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Trachurus trachurus,24,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Trichiurus lepturus,31,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Trigla lyra,48,440,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Trigloporus lastoviza,53,200,levant,34.5,31.9,16,570,all,1213
+chordata,osteichthyes,Trypauchen vagina,200,200,levant,34.5,31.9,200,570,aut,12
+chordata,osteichthyes,Upeneus moluccensis,27,146,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Upeneus pori,16,58,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Uranoscopus scaber,20,84,levant,34.5,31.9,16,145,spr/sum,13
+chordata,osteichthyes,Zeus faber,50,102,levant,34.5,31.9,16,145,spr/sum,13
+crustacea,malacostraca,Aristaeomorpha foliacea,367,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Aristeus antennatus,501,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Funchalia woodwardi,760,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Gennadas elegans,515,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Melicertus kerathurus,39,39,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Parapenaeus longirostris,82,445,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Solenocera membranacea,95,556,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Sergestes arcticus,500,555,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Sergia robusta,501,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pasiphaea multidentata,469,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pasiphaea sivado,367,627,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Alpheus glaber,32,400,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Ligur ensiferus,556,556,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Processa canaliculata,286,550,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Processa edulis,208,208,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Processa nouveli,105,585,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Processa robusta,15,15,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Chlorotocus crassicornis,95,469,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika acanthonotus,286,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika antigai,184,500,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika edwardsii,260,501,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika gigliolii,286,600,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika heterocarpus,184,394,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika martia,367,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Plesionika narval,260,501,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Philocheras echinulatus,500,555,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Aegaeon cataphractus,23,65,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Aegaeon lacazei,38,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pontophilus norvegicus,445,469,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pontophilus spinosus,367,515,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Nephrops norvegicus,286,635,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Calocaris macandreae,161,260,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Polycheles typhlops,155,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Scyllarides latus,23,23,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Dardanus arrosor,23,23,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pagurus alatus,555,555,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pagurus excavatus,82,225,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Pagurus prideaux,32,44,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Anapagurus laevis,44,65,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Munida intermedia,286,586,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Munida tenuimana,501,600,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Paromola cuvieri,600,635,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Medorippe lanata,15,306,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Latreillia elegans,32,32,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Macropodia longipes,184,184,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Maja squinado,106,430,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Parthenope  macrochelos,32,260,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Geryon longipes,550,760,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Bathynectes maravigna,556,556,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Bathynectes longipes,87,87,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Liocarcinus depurator,15,394,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Macropipus tuberculatus,95,600,corsica,12,41.5,10,760,spr/sum,14
+crustacea,malacostraca,Goneplax rhomboides,15,394,corsica,12,41.5,10,760,spr/sum,14
+mollusca,cephalopoda,Sepia elegans,21,392,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepia officinalis,21,95,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepia orbignyana,39,526,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Neorossia caroli,262,543,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Heteroteuthis dispar,539,598,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Rondeletiola minor,51,473,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Rossia macrosoma,152,649,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepietta neglecta,74,172,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepietta oweniana,38,800,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepiola affinis,49,49,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepiola intermedia,36,82,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepiola ligulata,86,344,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepiola robusta,86,86,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Sepiola rondeletii,165,586,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Abralia veranyi,152,549,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Histioteuthis bonnellii,116,787,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Loligo forbesii,100,598,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Loligo vulgaris,21,543,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Alloteuthis media,21,525,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Alloteuthis subulata,36,117,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Illex coindetii,24,598,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Todarodes sagittatus,48,800,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Todaropsis eblanae,39,659,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Onychoteuthis banksii,139,139,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Eledone cirrhosa,24,537,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Eledone moschata,21,165,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Octopus macropus,102,242,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Octopus salutii,68,518,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Octopus vulgaris,34,175,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Scaeurgus unicirrhus,33,500,adriatic/ionian,18.9,42,10,800,spr/sum,15
+mollusca,cephalopoda,Pteroctopus tetracirrhus,77,551,adriatic/ionian,18.9,42,10,800,spr/sum,15
+crustacea,malacostraca,Acanthephyra eximia,659,4000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Acanthephyra pelagica,531,4000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Aegeon cataphractus,18,125,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Aegeon lacazei,31,1054,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Alpheus glaber,31,786,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Aristaeomorpha foliacea,127,1145,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Aristeus antennatus,108,3300,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Atelecyclus rotundatus,24,50,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Bathynectes maravigna,125,1500,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Calappa granulata,18,665,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Calappa rissoana,25,165,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Calappa turekayana,24,140,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Chaceon mediterraneus,3300,3300,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Chlorotocus crassicornis,52,736,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Dromia personata,49,101,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Ebalia nux,736,736,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Ethusa mascarone,18,18,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Gennadas elegans,800,1500,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Geryon longipes,140,1147,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Goneplax rhomboides,12,917,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Homola barbata,29,665,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Inachus communissimus,12,130,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Inachus dorsettensis,13,379,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Latreillia elegans,25,267,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Ligur ensiferus,320,1000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Liocarnicus depurator,12,698,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Macropipus tuberculatus,18,778,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Macropodia tenuirostris,27,651,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Macropodia rostrata,16,290,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Maja crispata,24,60,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Maja squinado,64,139,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Medorippe lanata,18,778,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Monodaeus couchii,22,1123,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Munida curvimana,208,208,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Munida intermedia,255,725,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Munida rutllanti,101,800,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Munida tenuimana,142,1500,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Nematocarcinus exilis,190,4000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Nephrops norvegicus,43,908,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Palinurus elephas,73,151,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Parapenaeus longirostris,18,711,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Paromola cuvieri,91,1118,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Parthenope angulifrons,12,20,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Parthenope macrochelos,18,885,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Parthenopoides massena,47,50,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pasiphaea multidentata,132,1152,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pasiphaea sivado,99,910,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Penaeus kerathurus,12,316,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Periclimenes granulatus,800,800,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Philocheras echinulatus,161,595,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pilumnus spinifer,49,115,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pisa armata,47,108,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pisa nodipes,50,151,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika acanthonotus,284,1239,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika antigai,107,658,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika edwardsii,53,669,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika gigliolii,113,673,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika heterocarpus,64,694,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika martia,103,1167,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Plesionika narval,101,557,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Polycheles typhlops,113,2000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pontophilus spinosus,13,774,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Pontophilus norvegicus,365,1500,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Processa canaliculata,111,713,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Rochinia rissoana,204,800,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Scyllarides latus,40,77,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Scyllarus pygmaeus,96,564,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Sergestes arachnidopus,213,4000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Sergestes arcticus,570,1500,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Sergia robusta,222,4000,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Sicyonia carinata,13,49,Ionian,17.5,38.5,10,4000,all,9
+crustacea,malacostraca,Solenocera membranacea,18,741,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Abralia veranyi,62,746,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Abraliopsis morisii,558,558,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Alloteuthis media,12,478,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Alloteuthis subulata,12,539,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Ancisrocheirus lesueurii,508,563,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Ancistrocheirus lichtensteinii,165,1123,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Argonauta argo,362,362,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Brachioteuthis riisei,314,606,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Chiroteuthis veranyi,345,670,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Ctenopteryx sicula,501,501,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Eledone cirrhosa,15,650,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Eledone moschata,12,363,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Galiteuthis armata,1123,1123,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Heteroteuthis dispar,143,1142,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Histioteuthis bonnellii,254,763,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Histioteuthis reversa,153,769,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Illex coindetii,14,767,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Loligo forbesii,20,425,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Loligo vulgaris,12,560,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Neorossia caroli,131,779,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Octopoteuthis sicula,501,618,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Octopus defilippi,25,40,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Octopus macropus,17,350,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Octopus salutii,31,778,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Octopus vulgaris,11,290,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Onychoteuthis banksii,327,772,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Pteroctopus tetracirrhus,55,714,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Pyroteuthis margaritifera,287,605,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Rondeletiola minor,12,585,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Rossia macrosoma,68,772,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Scaeurgus unicirrhus,23,625,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepia elegans,14,562,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepia officinalis,12,219,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepia orbignyana,12,562,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepietta oweniana,12,602,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepiola intermedia,12,313,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepiola ligulata,20,360,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepiola robusta,25,334,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Sepiola rondeletii,18,87,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Todarodes sagittatus,97,779,Ionian,17.5,38.5,10,4000,all,9
+mollusca,cephalopoda,Todaropsis eblanae,13,742,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Centrophorus granulosus,300,1155,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Centrophorus uyato,748,962,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Chimera monstrosa,173,1239,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Dalatias licha,315,1239,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Dasyatis centroura,49,49,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Dasyatis pastinaca,12,130,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Dipturus batis,617,617,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Dipturus oxyrinchus,429,1218,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Etmopterus spinax,64,1500,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Galeus melastomus,140,1500,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Gymnura altavela,345,345,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Heptranchias perlo,322,345,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Hexanchus griseus,219,1155,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Leucoraja circularis,18,1009,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Leucoraja fullonica,160,587,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Mustelus mustelus,12,559,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Mylobatis aquila,16,85,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Oxynotus centrina,495,800,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Pteromylaeus bovinus,12,72,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Raja asterias,18,541,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Raja clavata,149,560,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Raja miraletus,12,430,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Raja montagui,31,314,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Raja radula,119,119,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Rostroraja alba,532,532,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Scyliorhinus canicula,20,634,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Scyliorhinus stellaris,50,50,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Somniosus rostratus,590,590,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Squalus acanthias,20,20,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Squalus blainville,688,688,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Torpedo marmorata,12,525,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Tetronarce nobiliana,18,675,Ionian,17.5,38.5,10,4000,all,9
+chordata,chondrichthyes,Torpedo torpedo,12,550,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Acantholabrus palloni,142,297,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Alosa alosa,33,56,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Alosa fallax,42,125,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Anthias anthias,101,153,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Argentina sphyraena,18,675,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Argyropelecus hemigymnus,147,1219,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ariosoma balearicum,24,340,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Arnoglossus kessleri,124,124,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Arnoglossus laterna,12,637,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Arnoglossus rueppelii,13,675,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Arnoglossus thori,15,363,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Aspitrigla cuculus,17,478,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Aulopus filamentosus,130,536,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Auxis rochei,573,573,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Balistes capriscus,13,48,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Bathophilus nigerrimus,350,586,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Bathypterois mediterraneus,659,3300,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Benthocometes robustus,85,767,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Benthosema glaciale,161,769,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Blennius ocellaris,17,187,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Boops boops,12,379,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Bothus podas,11,680,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Buglossidium luteum,16,520,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Callanthias ruber,56,418,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Callionymus lyra,133,133,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Callionymus maculatus,12,594,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Callionymus pusillus,20,20,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Callionymus risso,12,594,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Callionymus fasciatus,50,92,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Campogramma glaycos,25,25,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Capros aper,14,673,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Carnax crysos,16,16,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Carnax rhonchus,30,320,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Carapus acus,13,557,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Cataetyx laticeps,2000,3300,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Centracanthus cirrus,12,350,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Centrolophus niger,204,878,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Cepola macrophthalma,18,684,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ceratoscopelus maderensis,161,1038,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Chauliodus sloani,264,1152,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Chelidonichthys lastoviza,12,534,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Chelidonichthys lucerna,12,462,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Chelidonichthys obscurus,23,299,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Chlopsis bicolor,97,629,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Chlorophthalmus agassizi,50,698,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Cichlasoma bimaculatum,22,268,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ciclothone braueri,1200,1200,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Citharus linguatula,13,300,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Coelorinchus caelorhincus,127,1034,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Coelorinchus mediterraneus,917,1500,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Conger conger,12,1098,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Coris julis,11,60,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Coryphaena hippurus,520,520,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Coryphaenoides guentheri,1500,1700,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Coryphaenoides mediterraneus,1054,4000,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Cubiceps gracilis,508,667,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Dactylopterus volitans,12,55,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Dalophis imberbis,25,429,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Deltentosteus collonianus,153,153,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Deltentosteus quadrimaculatus,12,543,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Dentex dentex,15,258,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Dentex gibbosus,15,15,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diaphus holti,316,1054,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diaphus metopoclampus,312,662,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diaphus rafinesquii,330,676,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Dicentrarchus labrax,15,18,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diplodus annularis,11,144,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diplodus puntazzo,11,11,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diplodus sargus,17,29,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Diplodus vulgaris,12,114,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Dysomma brevirostre,264,504,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Echelus myrus,29,575,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Echiichthys vipera,18,30,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Echiodon dentatus,19,775,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Elates ransonnetii,20,20,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Electrona risso,272,1007,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Engraulis encrasicolus,12,346,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Epigonus constanciae,258,739,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Epigonus denticulatus,91,738,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Epigonus telescopus,287,1000,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Epinephelus aeneus,12,130,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Eutrigla gurnardus,12,531,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Evermannella balbo,501,607,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gardella maraldi,118,774,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gadiculus argenteus,51,690,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gaidropsarus biscayensis,18,1142,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gaidropsarus mediterraneus,60,567,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Glossanodon leioglossus,33,675,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gnathophis mystax,12,598,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gobius geniporus,34,165,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gobius niger,12,565,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gonichthys cocco,121,531,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gonostoma denudatum,349,917,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Grammonus ater,654,654,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Gymnammodytes cicerelus,49,107,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Helicolenus dactylopterus,50,775,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Hippocampus hippocampus,13,50,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Hoplostethus mediterraneus,136,919,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Hygophum benoiti,287,908,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Hygophum hygomii,316,1142,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Hymenocephalus italicus,114,1130,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ichthyococcus ovatus,204,523,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lampanyctus crocodilus,165,3300,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lepidion lepidion,504,1700,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lepidopus caudatus,34,687,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lepidorhombus caudatus,34,687,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lepidorhombus boscii,15,745,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lepidorhombus whiffiagonis,16,552,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lepidotrigla cavillone,12,501,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lesueurigobius suerii,15,530,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lesueurigobius friesii,12,549,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lichia amia,39,39,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lithognathus mormyrus,11,120,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Liza aurata,15,15,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Liza ramada,12,77,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lobianchia dofleini,16,1130,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lobianchia gemellarii,528,528,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lophius budegassa,13,745,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Lophius piscatorius,16,672,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Macroramphosus scolopax,12,674,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Maurolicus muelleri,170,339,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Merlangius merlangus,60,412,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Merluccius merluccius,14,828,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Microchirus ocellatus,16,50,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Microchirus variegatus,12,181,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Micromesistius poutassou,49,815,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Mola mola,151,151,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Molva dypterygia,20,800,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Monochirus hispidus,12,520,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Mora moro,148,1239,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Mugil cephalus,12,18,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Mullus barbatus,11,379,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Mullus surmuletus,11,635,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Muraena helena,58,153,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Myctophum punctatum,253,1014,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Nansenia oblita,461,535,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Nemichthys scolopaceus,123,859,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Nettastoma melanurum,63,1500,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Nezumia sclerorhynchus,128,1500,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Notacanthus bonaparte,83,1500,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Notoscopelus elongatus,133,878,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ophichthus rufus,12,508,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ophidion barbatum,18,687,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ophidion rochei,655,655,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Ophisurus serpens,50,346,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Pagellus acarne,12,575,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Pagellus bogaraveo,12,1000,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Pagellus erythrinus,11,535,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Pagrus pagrus,12,183,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Parablennius tentacularis,27,27,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Paralepis speciosa,18,926,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Peristedion cataphractum,14,570,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Phycis blennoides,34,1155,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Phycis phycis,23,672,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Polyprion americanus,18,712,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Pomatomus saltatrix,22,26,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Psetta maxima,13,13,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sardina pilchardus,12,470,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sardinella aurita,12,171,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sarpa salpa,17,17,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Schedophilus ovalis,510,510,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sciaena umbra,32,32,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scomber japonicus,25,401,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scomber scombrus,15,260,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scophthalmus rhombus,61,61,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scorpaena elongata,16,383,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scorpaena loppei,30,30,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scorpaena notata,18,555,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scorpaena porcus,11,525,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Scorpaena scrofa,11,400,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Seriola dumerili,12,292,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Serranus cabrilla,11,330,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Serranus hepatus,12,502,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Serranus scriba,15,125,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Solea solea,12,401,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sparisoma cretense,14,14,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sparus aurata,15,57,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sphoeroides pachygaster,66,400,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sphyraena sphyraena,12,209,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Spicara maena,12,585,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Spicara smaris,11,380,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Spondyliosoma cantharus,38,63,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sprattus sprattus,20,255,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Stomias boa,34,1039,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Stromateus fiatola,20,20,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Sudis hyalina,31,1132,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symbolophorus veranyi,189,1007,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphodus cinereus,12,40,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphodus mediterraneus,27,40,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphodus melops,27,27,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphodus roissali,27,27,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphodus rostratus,13,120,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphodus tinca,18,18,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphurus ligulatus,18,1118,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Symphurus nigrescens,12,1130,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Synapturichthys kleinii,16,171,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Synchiropus phaeton,12,673,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Syngnathus acus,12,125,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Syngnathus taenionotus,101,101,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Syngnathus tenuirostris,60,60,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Syngnathus typhle,15,598,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Synodus saurus,11,335,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Tetragonurus cuvieri,300,300,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trachinus draco,12,375,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trachinus radiatus,16,300,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trachurus mediterraneus,12,661,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trachurus picturatus,12,763,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trachurus trachurus,12,763,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trachyrincus scabrus,289,1239,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trigla lyra,12,673,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Trisopterus minutus,25,528,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Uranoscopus scaber,11,425,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Vinciguerria attenuata,73,569,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Xyrichthys novacula,11,105,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Zeus faber,16,429,Ionian,17.5,38.5,10,4000,all,9
+chordata,osteichthyes,Zosterisessor ophiocephalus,91,91,Ionian,17.5,38.5,10,4000,all,9
