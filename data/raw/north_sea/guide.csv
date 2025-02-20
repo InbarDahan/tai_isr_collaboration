@@ -1,0 +1,24 @@
+Fields,Description
+Quarter,Cruise quarter
+Country,DATRAS code for the country that performed the survey. Ship flag does not affect this field
+Ship,DATRAS ship reference code.
+Gear,Gear type code
+SweepLngt,"Length of sweep in metres. Recommended: at 1st quarter=60m (incl.backstorps) if depth<70m, or =110m if depth >70m. In other quarters=60m (see the manual for more info)"
+HaulNo,"Sequential numbering of hauls during cruise.
+In CA-records: HaulNo=-9 for Area-based ALK
+HaulNo<>-9 and >0 for Haul-based ALK"
+Year,Cruise year (YYYY)
+TotalNo,"Total number of fish in the given haul and species. =Sum(HLNoAtLngt)*SubFactor; =NoMeas*SubFactor, but if DataType in HH is C, then = TotNo/hour/haul"
+Sci_name,Scientific name of species
+Month,Month of the haul (MM). Quarter-related numeric value.
+Day,Calendar date of the haul (DD). Year and Month-related.
+DayNight,"Daytime is recommended for trawling, See the NS-IBTS manual for more details."
+ShootLat,Shooting position: Degree.Decimal Degree of latitude
+ShootLong,Shooting position: Degree.Decimal Degree of longitude.
+Depth,Depth from the surface in metres.
+HaulVal,"Haul validity code. Related with SpecVal from HL. F.ex. if HaulVal is I, SpecVal should be 0."
+DataType,"Code that specifies the data type for a number of fields in HL-record. 
+C - TotalNo and CatCatchWgt are adjusted per hour of hauling;
+R and S - raw data as recorded during the cruise.
+S should be applied only if whole catch was sub-sampled, so SubFactor for the hole is > 1."
+GRIDID,Grid cell name
